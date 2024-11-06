@@ -1,6 +1,6 @@
 package io.github.nathanjrussell.shape;
 
-public class RegularPolygon {
+public class RegularPolygon implements Shape{
     private final int numSides;
     private final double sideLength;
 
